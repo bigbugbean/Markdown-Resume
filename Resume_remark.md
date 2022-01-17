@@ -15,14 +15,15 @@
  </center>
 
 
- ## <img src="D:/projects/Markdown-Resume/assets/info-circle-solid.svg" width="30px"> 个人信息 
+
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 统招本科，重庆邮电大学，信息安全专业，2011-2015
  - 工作经验：7年
  - 拥有基础架构开发经验
  - 拥有海外支付项目经验
 
-## <img src="D:/projects/Markdown-Resume/assets/tools-solid.svg" width="30px"> 掌握技能
+## <img src="assets/tools-solid.svg" width="30px"> 掌握技能
 
 - 熟练掌握面向对象开发，擅长结合实际情况进行UML建模、分析、设计
 - 熟练掌握Java基础及其高级特性，了解其实现原理
@@ -37,7 +38,7 @@
 - 了解Kubernetes、Docker等云原生相关技术及其部分原理，并在项目中有实际应用
 - 了解计算机组成原理和操作系统原理，并能借鉴其设计思想应用在项目中
 
-## <img src="D:/projects/Markdown-Resume/assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 #### 技术中台（数字广东）
 
@@ -84,7 +85,7 @@
   * 设计和开发了基础通用服务中的可靠消息服务实现事务消息，解决了大部分分布式事务问题，实现了数据的最终一致性
 * 参与代码规范的制定和推广TDD的落地，降低了bug率和线上事故率
 
-## <img src="D:/projects/Markdown-Resume/assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 ##### 2020.09-至今 数字广东网络建设有限公司
 
