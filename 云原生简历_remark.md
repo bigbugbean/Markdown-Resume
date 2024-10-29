@@ -18,43 +18,35 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 统招本科，重庆邮电大学，信息安全专业，2011-2015
- - 工作经验：7年
- - 拥有基础架构开发经验
- - 拥有海外支付项目经验
+ - 工作经验：10年
+ - 基础架构开发经验
+ - 云原生开发经验，获得CKS、CKAD、CKA认证
 
 ## <img src="assets/tools-solid.svg" width="30px"> 掌握技能
 
-- 熟练掌握面向对象开发，擅长结合实际情况进行UML建模、分析、设计
-- 熟练掌握Java基础及其高级特性，了解其实现原理 `(ArrayList,HashMap)`
-
-- 熟悉Java并发编程及JUC并应用到实际项目 `(volatile、sync、ThreadLocal)`
-
-- 熟悉JVM，包括但不限于JVM运行时数据区、垃圾回收、类加载及其原理
-- 熟悉Spring、Spring Boot、Spring Cloud框架的基本使用和技术原理
-```java
-springboot启动流程：
-1.SpringApplication的初始化，配置一些基本的环境变量、资源、构造器、监听器
-2.自动配置，从 classpath 中搜寻所有的 META-INF/spring.factories 配置文件，通过反射实例化所配置的类
-3.准备 Environment，创建 Context
-Bean生命周期：
-1.实例化：通过反射或new创建bean
-2.属性赋值：为 bean 设置相关属性和依赖
-3.初始化：执行各种Aware、BeanPostProcessor前置处理、afterPropertiesSet()、init方法、BeanPostProcessor后置处理
-4.销毁：destroy方法
-```
-- 熟悉Golang基础及其部分高级特性，了解其实现原理
-```java
-GMP模型、垃圾回收
-```
-- 熟悉MySQL数据库开发及其优化，包括基本架构、日志、事务、索引等
-- 熟悉Redis，包括其内部数据结构及哨兵、集群、持久化机制
-- 熟悉Kafka、RocketMQ等消息队列，了解其高可用架构设计、消息存储、负载均衡等(**`顺序消息、消息丢失、存储架构`**)
-
+- 熟练掌握面向对象编程、函数式编程，擅长结合实际情况进行UML建模、分析、设计
+  > 掌握编程范式、UML
+- 熟悉常用技术标准，包括REST API、OAuth2.0、HTTP等多个RFC规范
+- 熟练掌握Core Java及其高级特性，包括但不限于并发、JVM调优
+  > dsa
+- 熟悉Golang基础及其部分高级特性
+- 熟悉Spring生态，包括但不限于Spring、Spring Boot、Spring Cloud
+  > 
+- 熟悉各种常用中间件的使用及其优化，包括Redis、Kafka、Elastic Search
+- 熟悉常用数据库的使用及其优化，包括MySQL、PostgreSQL、Mongo DB、TiDB
 - 熟悉常用设计模式，包括状态模式、装饰者模式、观察者模式等，并应用到实际项目中
 - 了解Kubernetes、Docker等云原生相关技术及其部分原理，并在项目中有实际应用
-- 了解计算机组成原理和操作系统原理，并能借鉴其设计思想应用在项目中
+- 了解计算机组成原理和操作系统原理，，并能借鉴其设计思想应用在项目中
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+### 联通（广东）产业互联网有限公司(2022/03至今)
+
+#### 
+
+### 数字广东网络建设有限公司(2020/09-2022/02)
+
+### 广州领克科技有限公司(2018/05-2020/09)
 
 #### 技术中台（数字广东）
 
@@ -126,7 +118,7 @@ GMP模型、垃圾回收
   
 * 参与代码规范的制定和推广TDD的落地，降低了bug率和线上事故率
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 最近工作经历
 
 ##### 2020.09-至今 数字广东网络建设有限公司
 
